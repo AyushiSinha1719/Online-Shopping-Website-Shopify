@@ -1,0 +1,38 @@
+                          E-COMMERCE
+
+Roles And Responsibilities :-
+--------------------------------
+Admin
+    Maintain the platform
+    Manage vendors
+    Manage Customer
+    Customer care support
+    Delivery track
+    Payment gateway
+
+Vendor
+    Authentication
+    Upload product
+    View/search product
+    Edit/delete product
+    View orders
+    Add discount
+
+Customer
+    Authentication
+    View product
+    Sort,search,filter based on price/rating etc....
+    Compare product
+    Add to cart
+    View cart
+    Edit/delete cart
+    Place orders
+    View orders
+    Cancel order
+    Return order
+    Review and rating
+    Order tracking
+
+
+
+give short description of a dress to upload
